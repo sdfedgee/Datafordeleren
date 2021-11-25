@@ -1,6 +1,6 @@
 # Datafordeleren
 
-Go to the WIKI and read about how to we suggest the new Datafordeler to be implemented.
+Go to the WIKI and read about how to we suggest the new Datafordeler to be implemented. Link: https://github.com/WROFF/Datafordeleren/wiki
 
 Large governmental solutions should be open source and easy to maintain and move between supplies. High security and reliability is a prerequisite.
 
