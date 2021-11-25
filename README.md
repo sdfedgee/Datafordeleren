@@ -8,4 +8,4 @@ WROFF.com and OpenRPA.dk have joined forces to promote the use of OpenRPA as a p
 
 WROFF and OprnRPA are both small companies who need support by a large organisaton who can front the project. Deadlin for pre-proposal is in december.
 
-It is a comercial market and we all must eat. We are open to discussing any compensation model. We do this to make a great solution and earn money for all. xxx
+It is a comercial market and we all must eat. We are open to discussing any compensation model. We do this to make a great solution and earn money for all.
