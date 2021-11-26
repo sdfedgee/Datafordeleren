@@ -2,7 +2,7 @@
 
 Go to the WIKI and read about how to we suggest the new Datafordeler be implemented. Link: https://github.com/WROFF/Datafordeleren/wiki
 
-Large governmental solutions should be open source and easy to maintain and move between supplies. High security and reliability is a prerequisite.
+Large governmental solutions should be open source and easy to maintain and move between local and internatinal cloud providers, such as Amason Webservices (AWS), Microsoft Azure and Google Cloud. High security and reliability is a prerequisite.
 
 WROFF.com and OpenRPA.dk have joined forces to promote the use of OpenRPA as a platform for the new version of the Danish Datafordeler. OpenRPA is open source and can be found on GitHub. Link: https://github.com/open-rpa/openrpa
 
